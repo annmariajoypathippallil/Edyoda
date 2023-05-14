@@ -15,3 +15,11 @@ git branch -M main
 git push -u origin main
 
 Token: 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
+
+git config --global user.email "annmariajoypathippallil28@gmail.com"
+git config --global user.name "annmariajoypathippallil"
+
+
+1. git add .
+2. git commit -m ""
+3. git push -u origin main
