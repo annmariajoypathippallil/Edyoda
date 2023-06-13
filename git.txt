@@ -18,6 +18,7 @@ Token: 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
 
 git config --global user.email "annmariajoypathippallil28@gmail.com"
 git config --global user.name "annmariajoypathippallil"
+passwd: Annmariajoy@99
 
 
 1. git add .

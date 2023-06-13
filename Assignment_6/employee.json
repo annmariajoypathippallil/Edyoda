@@ -1,0 +1,47 @@
+{
+    "employee1":{
+        "Name": "Ann",
+        "DOB": "28-05-1999",
+        "Height": "165cm",
+        "City": "Kattappana",
+        "State": "Kerala" 
+    },
+    "employee2": {
+        "Name": "Jerin",
+        "DOB": "01-11-1999",
+        "Height": "187cm",
+        "City": "Kattappana",
+        "State":"Kerala"
+    },
+    "employee3": {
+        "Name": "Albin",
+        "DOB": "21-11-2000",
+        "Height": "157cm",
+        "City": "Kattappana",
+        "State":"Kerala"
+    },
+    "employee4": {
+        "Name": "Anjana",
+        "DOB": "25-06-1999",
+        "Height": "168cm",
+        "City": "Kattappana",
+        "State":"Kerala"
+    },
+    "employee5": {
+        "Name": "Delna",
+        "DOB": "26-06-1999",
+        "Height": "160cm",
+        "City": "Kattappana",
+        "State":"Kerala"
+    },
+
+    "employee6": {
+        "Name": "Delna",
+        "DOB": "26-06-1999",
+        "Height": "160cm",
+        "City": "Kattappana",
+        "State":"Kerala"
+    }
+    
+    
+}
