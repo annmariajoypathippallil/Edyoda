@@ -1,0 +1,284 @@
+{
+    "q1": 
+    [
+        1,
+        "Which planet is known as the Red Planet?",
+        ["Mars", "Venus", "Jupiter", "Saturn"]
+    ],
+    "q2": [
+        2,
+        "What is the capital of France?",
+        ["Paris", "Madrid", "London", "Rome"]
+    ],
+    "q3": [
+        3,
+        "Who painted the Mona Lisa?",
+        ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Michelangelo"]
+    ],
+    "q4": [
+        4,
+        "What is the largest ocean in the world?",
+        ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"]
+    ],
+    "q5": [
+        5,
+        "Who wrote the play Romeo and Juliet?",
+        ["William Shakespeare", "Jane Austen", "Mark Twain", "Charles Dickens"]
+    ],
+    "q6": [
+        6,
+        "Which country is home to the kangaroo?",
+        ["Australia", "Brazil", "Canada", "China"]
+    ],
+    "q7": [
+        7,
+        "What is the chemical symbol for gold?",
+        ["Au", "Ag", "Fe", "Cu"]
+    ],
+    "q8": [
+        8,
+        "Who is the founder of Microsoft?",
+        ["Bill Gates", "Steve Jobs", "Mark Zuckerberg", "Larry Page"]
+    ],
+    "q9": [
+        9,
+        "Which planet is the closest to the sun?",
+        ["Mercury", "Venus", "Mars", "Jupiter"]
+    ],
+    "q10": [
+        10,
+        "What is the tallest mountain in the world?",
+        ["Mount Everest", "K2", "Kangchenjunga", "Makalu"]
+    ],
+    "q11": [
+        11,
+        "Who is the author of the Harry Potter book series?",
+        ["J.K. Rowling", "Stephen King", "George R.R. Martin", "Suzanne Collins"]
+    ],
+    "q12": [
+        12,
+        "Which country is known as the Land of the Rising Sun?",
+        ["Japan", "China", "India", "Thailand"]
+    ],
+    "q13": [
+        13,
+        "What is the largest planet in our solar system?",
+        ["Jupiter", "Saturn", "Neptune", "Uranus"]
+    ],
+    "q14": [
+        14,
+        "Who is the current President of the United States?",
+        ["Joe Biden", "Donald Trump", "Barack Obama", "George W. Bush"]
+    ],
+    "q15": [
+        15,
+        "Which city is known as the Big Apple?",
+        ["New York City", "Los Angeles", "Chicago", "San Francisco"]
+    ],
+    "q16": [
+        16,
+        "What is the largest continent in the world?",
+        ["Asia", "Africa", "North America", "Europe"]
+    ],
+    "q17": [
+        17,
+        "Who discovered electricity?",
+        ["Benjamin Franklin", "Isaac Newton", "Thomas Edison", "Albert Einstein"]
+    ],
+    "q18": [
+        18,
+        "Which animal is known as the King of the Jungle?",
+        ["Lion", "Tiger", "Elephant", "Gorilla"]
+    ],
+    "q19": [
+        19,
+        "Who painted the famous artwork 'The Starry Night'?",
+        ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"]
+    ],
+    "q20": [
+        20,
+        "What is the chemical symbol for water?",
+        ["H2O", "CO2", "NaCl", "O2"]
+    ],
+
+    "q21": 
+    [
+        21, 
+        "What is the largest planet in our solar system?", 
+        ["Jupiter", "Saturn", "Neptune", "Uranus"]
+    ],
+    "q22": 
+    [
+        22, 
+        "Who wrote the novel 'To Kill a Mockingbird'?", 
+        ["Harper Lee", "F. Scott Fitzgerald", "Ernest Hemingway", "J.D. Salinger"]
+    ],
+    "q23": 
+    [
+        23, 
+        "Which country is known as the Land Down Under?", 
+        ["Australia", "New Zealand", "Brazil", "South Africa"]
+    ],
+    "q24": 
+    [
+        24, 
+        "What is the chemical symbol for iron?", 
+        ["Fe", "Au", "Ag", "Cu"]
+    ],
+    "q25": 
+    [
+        25, 
+        "Which famous scientist developed the theory of general relativity?", 
+        ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Stephen Hawking"]
+    ],
+    "q26": 
+    [
+        26, 
+        "Which planet is known as the Blue Planet?", 
+        ["Earth", "Mars", "Venus", "Neptune"]
+    ],
+    "q27": 
+    [
+        27, 
+        "Who is the author of the novel '1984'?", 
+        ["George Orwell", "Aldous Huxley", "Ray Bradbury", "Margaret Atwood"]
+    ],
+    "q28": 
+    [
+        28, 
+        "Which country is famous for its tulips and windmills?", 
+        ["Netherlands", "Italy", "Germany", "France"]
+    ],
+    "q29": 
+    [
+        29, 
+        "What is the chemical symbol for sodium?", 
+        ["Na", "K", "Ca", "Mg"]
+    ],
+    "q30": 
+    [
+        30, 
+        "Who painted the ceiling of the Sistine Chapel?", 
+        ["Michelangelo", "Leonardo da Vinci", "Raphael", "Donatello"]
+    ],
+    "q31": 
+    [
+        31, 
+        "What is the largest land animal?", 
+        ["Elephant", "Rhinoceros", "Hippopotamus", "Giraffe"]
+    ],
+    "q32": 
+    [
+        32, 
+        "Which city is famous for the Leaning Tower?", 
+        ["Pisa", "Rome", "Florence", "Venice"]
+    ],
+    "q33": 
+    [
+        33, 
+        "What is the chemical symbol for silver?", 
+        ["Ag", "Au", "Cu", "Pb"]
+    ],
+    "q34": 
+    [
+        34, 
+        "Who is the author of 'The Great Gatsby'?", 
+        ["F. Scott Fitzgerald", "Ernest Hemingway", "Mark Twain", "Virginia Woolf"]
+    ],
+    "q35": 
+    [
+        35, 
+        "Which country is known as the Land of the Rising Sun?", 
+        ["Japan", "China", "India", "Thailand"]
+    ],
+    "q36": 
+    [
+        36, 
+        "What is the largest moon in our solar system?", 
+        ["Ganymede", "Titan", "Callisto", "Europa"]
+    ],
+    "q37": 
+    [
+        37, 
+        "Who painted the famous artwork 'The Last Supper'?", 
+        ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Salvador Dalí"]
+    ],
+    "q38": 
+    [
+        38, 
+        "Which instrument is used to measure earthquakes?", 
+        ["Seismograph", "Barometer", "Thermometer", "Spectroscope"]
+    ],
+    "q39": 
+    [
+        39, 
+        "Who is the author of the 'Lord of the Rings' trilogy?", 
+        ["J.R.R. Tolkien", "C.S. Lewis", "George R.R. Martin", "Terry Pratchett"]
+    ],
+    "q40": 
+    [
+        40, 
+        "What is the chemical symbol for potassium?", 
+        ["K", "Na", "Ca", "Mg"]
+    ],
+    "q41": 
+    [
+        41, 
+        "Which country is known as the Land of Fire and Ice?", 
+        ["Iceland", "Greenland", "Norway", "Finland"]
+    ],
+    "q42": 
+    [
+        42, 
+        "Who is the artist behind the famous painting 'The Persistence of Memory'?", 
+        ["Salvador Dalí", "Pablo Picasso", "Vincent van Gogh", "Claude Monet"]
+    ],
+    "q43": 
+    [
+        43, 
+        "What is the largest species of shark?", 
+        ["Whale shark", "Great white shark", "Tiger shark", "Hammerhead shark"]
+    ],
+    "q44": 
+    [
+        44, 
+        "Which city is known as the Eternal City?", 
+        ["Rome", "Athens", "Paris", "Cairo"]
+    ],
+    "q45": 
+    [
+        45, 
+        "Who is the author of the novel 'Pride and Prejudice'?", 
+        ["Jane Austen", "Charlotte Brontë", "Emily Brontë", "Louisa May Alcott"]
+    ],
+    "q46": 
+    [
+        46, 
+        "Which country is home to the Great Barrier Reef?", 
+        ["Australia", "Brazil", "Mexico", "Indonesia"]
+    ],
+    "q47": 
+    [
+        47, 
+        "What is the chemical symbol for calcium?", 
+        ["Ca", "Na", "K", "Mg"]
+    ],
+    "q48": 
+    [
+        48, 
+        "Who is the artist behind the famous painting 'The Starry Night'?", 
+        ["Vincent van Gogh", "Pablo Picasso", "Claude Monet", "Leonardo da Vinci"]
+    ],
+    "q49": 
+    [
+        49, 
+        "Which natural disaster is measured with the Richter scale?", 
+        ["Earthquake", "Hurricane", "Tornado", "Flood"]
+    ],
+    "q50": 
+    [
+        50, 
+        "What is the chemical symbol for oxygen?", 
+        ["O", "H2O", "CO2", "N2"]
+    ]      
+}
